@@ -1,0 +1,15 @@
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\bin\Debug\net6.0\BlackHolesSweeper.exe
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\bin\Debug\net6.0\BlackHolesSweeper.deps.json
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\bin\Debug\net6.0\BlackHolesSweeper.runtimeconfig.json
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\bin\Debug\net6.0\BlackHolesSweeper.dll
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\bin\Debug\net6.0\ref\BlackHolesSweeper.dll
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\bin\Debug\net6.0\BlackHolesSweeper.pdb
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.csproj.AssemblyReference.cache
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.AssemblyInfoInputs.cache
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.AssemblyInfo.cs
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.csproj.CoreCompileInputs.cache
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.dll
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\ref\BlackHolesSweeper.dll
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.pdb
+C:\src\Minesweeper\BlackHolesSweeper\BlackHolesSweeper\obj\Debug\net6.0\BlackHolesSweeper.genruntimeconfig.cache
